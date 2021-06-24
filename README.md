@@ -1,6 +1,6 @@
 # Hey there, I'm Victor
 
-## About me
+## :desktop_computer: About me
 
 I'm a curious programmer, which led me to dabble in several technologies, but mostly I consider myself a backend developer with experience in:
 
