@@ -9,7 +9,7 @@ I'm a curious programmer, which led me to dabble in several technologies, but mo
 - Python :white_check_mark: :white_check_mark: :black_square_button: :black_square_button: :black_square_button:
 - PHP :white_check_mark: :black_square_button: :black_square_button: :black_square_button: :black_square_button:
 
-Currently, I'm studying/experimenting with game development, initially on Unity, since my Master's degree has concluded. My portfolio, including [this](https://www.audiogamebreu.com.br/) Portuguese audio game, is currently in development. 
+Currently, I'm studying/experimenting with game development, initially on Unity, since my Master's degree has concluded. My portfolio, including [this](https://www.audiogamebreu.com.br/) Portuguese audio game, is available [here](https://m1thr4nd1r.github.io/portfolio/). 
 
 Finally, I like to pass on the knowledge I have gained while also helping people enter the tech industry, especially if they are from a minority.
 
