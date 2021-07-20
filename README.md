@@ -10,14 +10,18 @@ Mostly I consider myself a backend developer with experience in:
 
 ![C#](https://img.shields.io/badge/-C%23-512BD4?&logo=.Net&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/-Java-007396?&logo=java&logoColor=FFFFFF) ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=FFFFFF) ![PHP](https://img.shields.io/badge/-PHP-777BB4?&logo=php&logoColor=FFFFFF) 
 
-Currently, I'm studying/experimenting with game development, initially on Unity, since my Master's degree has concluded. My portfolio, including [this](https://www.audiogamebreu.com.br/) Portuguese audio game, is available [here](https://m1thr4nd1r.github.io/portfolio/). 
+Having finished my Master's degree, currently I'm studying experimeting with:
 
-Finally, I like to pass on the knowledge I have gained while also helping people enter the tech industry, especially if they are from a minority.
+![Unity](https://img.shields.io/badge/-Unity-000000?&logo=unity&logoColor=FFFFFF) ![WWise](https://img.shields.io/badge/-WWise-000000?&logo=wwise&logoColor=FFFFFF)  ![FMOD](https://img.shields.io/badge/-FMOD-000000?&logo=fmod&logoColor=FFFFFF) 
+
+My portfolio, including [this](https://www.audiogamebreu.com.br/) Portuguese audio game, is available [here](https://m1thr4nd1r.github.io/portfolio/). 
 
 ## 💬 Talk with me about:
 
-- Programming Challenges;
 - Programming in general;
+- Game development;
+- Coding Challenges;
+- AI
 - Job opportunities;
 
 Or if you just want to chat :smiley:
